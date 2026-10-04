@@ -25,3 +25,12 @@ or
 python ytdl.py
 
 ```
+yt-dlp + ffmpeg updater
+
+
+```
+g++ -std=c++17 update_stuff.cpp -o update_stuff && ./update_stuff
+# or
+cl /std:c++17 /EHsc update_stuff.cpp && update_stuff.exe  
+
+```
