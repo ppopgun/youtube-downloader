@@ -1,6 +1,8 @@
 # youtube-downloader
 ytdlp and ffmpeg with an ui
 here's how it looks like
+
+i made this for myself im sorry if it does not work for you
 ![s](67.png)
 
 ---
